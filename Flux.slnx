@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="Flux/Flux.vcxproj" Id="25221730-1b0b-4a05-98aa-c6b154299652" />
+  <Project Path="Sandbox/Sandbox.vcxproj" Id="9a16f9ef-e41e-45cb-97e4-899dc2910ec6" />
+</Solution>
